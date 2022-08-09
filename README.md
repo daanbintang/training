@@ -1,2 +1,3 @@
 # training git and github
-section one
+
+section pull,push,fetch
